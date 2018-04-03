@@ -1,0 +1,86 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+.navbar {
+
+height: 50px;
+background-color: #7e7d83; 
+}
+
+
+.bg {
+    /* The image used */
+    background-image: url("../images/bg2.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+ul {
+    list-style-type: none;
+    position: fixed;
+    width:100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
+
+li {
+    border-left: 1px solid #bbb;
+}
+
+li:last-child {
+    border-left: none;
+}
+
+.caption {
+  position: absolute;
+  font-family: 'Source Sans Pro', sans-serif;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 11px;
+  font-size: 25px;
+  letter-spacing: 10px;
+}
+
+/* .pixel-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-image: url(../images/black-dots-pattern.png);
+} */
