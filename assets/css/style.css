@@ -74,12 +74,15 @@ li:last-child {
 
 .caption {
   position: absolute;
-  font-family: 'Source Sans Pro', sans-serif;
   left: 0;
-  top: 50%;
+  top: 35%;
   width: 100%;
   text-align: center;
   color: #000;
+}
+
+.title {
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .caption span.border {
