@@ -1,4 +1,5 @@
 body, html {
+    width: 100%;
     height: 100%;
     margin: 0;
     background-image: url("../images/light_grey.png");
@@ -201,7 +202,7 @@ H3 {
 }
 
 
-@media only screen and (max-width: 900px){
+@media only screen and (max-width: 720px){
 
 #meImage {
     width: 10em;
