@@ -272,5 +272,16 @@ label {
     margin-right: 10px;
 }
 
+.section1 {
+    height: 135%;
+}
+
+.contact-section {
+    height: 145%;
+}
+
+.intro-section {
+    height: 115%;
+}
 
 }
