@@ -18,6 +18,7 @@ footer {
     background-color: #7e7d83;
     color: #fff;
     padding: 22px;
+    padding-bottom: 0;
 }
 
 .navbar {
@@ -97,24 +98,20 @@ background-color: #7e7d83;
     padding-top: 7em;
 }
 
-.page3, .page5, .page3{
-    height: 100vh;
-    height: 100%;
-}
 
 .page3 {
     padding-top: 3em;
-    height: 100%;
+    height: ;
 }
 
 .page4
 {
     padding-top: 50px;
-    height: 1480px;
+    height: 1580px;
 }
 
 .page5 {
-    height: 77vh;
+    height: 100vh;
     width: 600px;
     justify-content: center;
 }
@@ -197,10 +194,15 @@ H3 {
 
 #contact {
     padding-top: 50px;
+    height: 730px;
 }
 
 .section5 {
     background-image: url("../images/light_grey.png");
+}
+
+#form-heading-00000002-acc {
+    margin-top: 0px;
 }
 
 /* .icon {
