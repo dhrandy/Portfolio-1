@@ -99,10 +99,12 @@ background-color: #7e7d83;
 
 .page3, .page5, .page3{
     height: 100vh;
+    height: 100%;
 }
 
 .page3 {
     padding-top: 3em;
+    height: 100%;
 }
 
 .page4
@@ -264,7 +266,10 @@ label {
     padding-top: 0px;
 }
 
-
+.row4 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 
 }
