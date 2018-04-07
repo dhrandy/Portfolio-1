@@ -96,7 +96,7 @@ background-color: #7e7d83;
     padding-top: 7em;
 }
 
-.page3, .page5, {
+.page3, .page5, .page3{
     height: 100vh;
 }
 
@@ -198,4 +198,14 @@ H3 {
 
 .section5 {
     background-image: url("../images/light_grey.png");
+}
+
+
+@media only screen and (max-width: 720px){
+
+
+
+
+
+
 }
