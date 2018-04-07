@@ -201,9 +201,46 @@ H3 {
 }
 
 
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 640px){
 
+#meImage {
+    width: 10em;
+}
 
+.page2Row {
+    margin-left: 40px;
+    margin-right:40px;
+    padding-top: 3em;
+}
+
+.page2 {
+    padding-top: 12px;
+}
+
+.navbar-head, .page-scroll {
+    width: 397px;
+}
+
+.page4 {
+    height: 1940px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.form-control {
+    width: 50%;
+    margin-left: 15px;
+    clear: both;
+}
+
+label {
+    float: left;
+    margin-left: 25px;
+}
+
+#contact {
+    padding-top: 0px;
+}
 
 
 
