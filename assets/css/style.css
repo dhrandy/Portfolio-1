@@ -219,7 +219,28 @@ H3 {
 }
 
 .navbar-header {
-    width: 397px;
+    width: 90%;
+}
+
+.container {
+    width: 90%;
+    padding: 0px;
+}
+
+.navbar-toggle {
+    margin-right: 30px;
+}
+
+.navbar-brand {
+    margin-left: 15px;
+}
+
+.myy-auto {
+    width: 100%;
+}
+
+.resume-section {
+    width: 100%;
 }
 
 .page4 {
