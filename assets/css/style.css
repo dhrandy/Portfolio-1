@@ -228,6 +228,10 @@ H3 {
     height: 100%;
 }
 
+.page3 {
+    height: 100vh;
+}
+
 .navbar-header {
     width: 90%;
 }
@@ -243,6 +247,8 @@ H3 {
 
 .navbar-brand {
     margin-left: 15px;
+    font-weight: bold;
+    font-size: 30px;
 }
 
 .myy-auto {
